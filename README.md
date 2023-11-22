@@ -1,1 +1,1 @@
-# Exercise_Unit5_website
+# Exercise_Unit5_website. Activities to learn to use Github.
